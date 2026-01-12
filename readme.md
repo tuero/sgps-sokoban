@@ -11,13 +11,14 @@ Problems used are from the [Boxoban](https://github.com/google-deepmind/boxoban-
 ### Sokoban Unfiltered
 - The first 50,000 unfiltered problems were used during training, first 1,000 problems used in testing. 
 - For each seed, a random split of 49,000 training problems and 1,000 validation problems chosen. 
-- An initial budget of 4000 node expansions with inference batch size of 32. 
+- An initial budget of 4,000 node expansions with inference batch size of 32. 
 
 
 ### Sokoban Medium
 - The first 450,000 medium problems used during training, and all hard problems used in testing.
 - For each seed, a random split of 449,000 training problems and 1,000 validation problems chosen.
 - An initial budget of 20,000 node visits with inference batch size of 32.
+- For testing, a max budget of 1,024,000 was used.
 
 ## Results
 The plot `png`/`pdf`, and summary data tables in `csv` format are in the `./data` and `./assets` folders.
