@@ -1,0 +1,5 @@
+,Num Solved,Expansions,Expansions,Solution Cost,Solution Cost,Time (s),Time (s)
+,,mean,sem,mean,sem,mean,sem
+Algorithm,,,,,,,
+LevinTS$(\pi^{SG})$,"1,000.0","2,204.16",317.25,35.87,0.25,2.54,0.18
+PHS$(\pi^{SG})$,"1,000.0","1,448.10",180.92,34.85,0.26,1.88,0.16
