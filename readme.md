@@ -40,7 +40,7 @@ Time is measured in hours here.
 
 
 
-|Algorithm                 |Solved |Expanded   |Thread Sum Time|Wall Time (Hours)|
+|Algorithm                 |Solved |Expanded   |Thread Sum Time (Hours)|Wall Time (Hours)|
 |--------------------------|-------|-----------|---------------|---------|
 |LevinTS$(\pi^{\text{SG}})$|47,226.2|233,050,490.8|69.7891        |13.6405  |
 |PHS$(\pi^{\text{SG}})$    |47,452.0|127,096,718.6|38.1456        |7.982    |
@@ -51,7 +51,7 @@ The `Thread Sum Time` column corresponds to the time in the plot, which measures
 The `Wall Time` column displays the wall clock the entire experiments took as a reference point.
 Time is measured in hours here.
 
-|Algorithm                 |Solved |Expanded   |Thread Sum Time|Wall Time (Hours)|
+|Algorithm                 |Solved |Expanded   |Thread Sum Time (Hours)|Wall Time (Hours)|
 |--------------------------|-------|-----------|---------------|---------|
 |LevinTS$(\pi^{\text{SG}})$|196,890.0|1716,636,084.0|788.2938       |119.4542 |
 |PHS$(\pi^{\text{SG}})$    |325,624.0|1675,445,853.0|685.6491       |109.4961 |
