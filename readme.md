@@ -36,6 +36,7 @@ The time listed for the training plot curves is the sum of time each algorithm u
 Below is the table of results summarizing the training plot above, using the average over all seeds.
 The `Thread Sum Time` column corresponds to the time in the plot, which measures the sum of time each algorithm uses on each problem, summed over all the threads (8) used during training.
 The `Wall Time` column displays the wall clock the entire experiments took as a reference point.
+Time is measured in hours here.
 
 
 
@@ -48,6 +49,7 @@ The `Wall Time` column displays the wall clock the entire experiments took as a 
 Below is the table of results summarizing the training plot above.
 The `Thread Sum Time` column corresponds to the time in the plot, which measures the sum of time each algorithm uses on each problem, summed over all the threads (8) used during training.
 The `Wall Time` column displays the wall clock the entire experiments took as a reference point.
+Time is measured in hours here.
 
 |Algorithm                 |Solved |Expanded   |Thread Sum Time|Wall Time|
 |--------------------------|-------|-----------|---------------|---------|
