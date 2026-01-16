@@ -53,8 +53,8 @@ Time is measured in hours here.
 
 |Algorithm                 |Solved |Expanded   |Thread Sum Time (Hours)|Wall Time (Hours)|
 |--------------------------|-------|-----------|---------------|---------|
-|LevinTS$(\pi^{\text{SG}})$|196,890.0|1716,636,084.0|788.2938       |119.4542 |
-|PHS$(\pi^{\text{SG}})$    |325,624.0|1675,445,853.0|685.6491       |109.4961 |
+|LevinTS$(\pi^{\text{SG}})$|291,402.0|2,321,107,464.0|1,067.8461      |163.4611 |
+|PHS$(\pi^{\text{SG}})$    |325,624.0|1,675,445,853.0|  685.6491      |109.4961 |
 
 
 ### Test - Unfiltered
@@ -70,4 +70,5 @@ The `Time` value here measures the sum of time each algorithm uses on each probl
 |Algorithm          |Num Solved|Expansions|Expansions|Solution Cost|Solution Cost|Time (s)|Time (s)|
 |-------------------|----------|----------|----------|-------------|-------------|--------|--------|
 |                   |          |mean      |sem       |mean         |sem          |mean    |sem     |
+|LevinTS$(\pi^{SG})$|3,321.0   |36,885.62 |1,543.20  |67.16        |0.41         |23.16   |0.90    |
 |PHS$(\pi^{SG})$    |3,308.0   |41,065.93 |1,724.99  |67.45        |0.43         |56.02   |2.29    |
